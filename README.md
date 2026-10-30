@@ -29,25 +29,12 @@ I'm a beginner developer who enjoys building small projects and learning somethi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Featured Projects
-
-> Projects are on the way! Replace these with your own as you build them.
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project One](https://github.com/shreyas101585/project-one) | A short one-line description of what it does | Java |
-| [Project Two](https://github.com/shreyas101585/project-two) | A short one-line description of what it does | HTML, CSS, JS |
-| [Project Three](https://github.com/shreyas101585/project-three) | A short one-line description of what it does | Python |
-
-## 📊 GitHub Stats
-
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyas101585&show_icons=true&theme=dark&hide_border=false)
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-gondkar-221272414)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shreyas_gondkar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasgondkar4@gmail.com)
 
 ---
 
