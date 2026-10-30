@@ -39,3 +39,7 @@ I'm a beginner developer who enjoys building small projects and learning somethi
 ---
 
 ⭐ If you like something here, feel free to star a repo. Thanks for visiting!
+
+## Requirements
+
+- Document the runtime and services this project requires.
